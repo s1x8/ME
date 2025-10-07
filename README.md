@@ -2,8 +2,11 @@
 EXPERIENCE DESCRIPTION
 
 Sr. Manager Cybersecurity Engineer, Odyssey Systems
+
 April 2024 - Present
+
 Cybersecurity Subject Matter Expert, Odyssey Systems
+
 April 2022 – February 2024
 
 Interface with cyber authorities and assessment groups to support and manage
@@ -24,8 +27,8 @@ and defend, analyze/investigate, respond, recover, and oversee/govern networks a
 systems. Provide policy writing and editing functions as defined by the supporting
 Program Office and groups involved in design and management of the systems.
 
-Information Systems Security Officer, ManTech and Parsons
-COMSEC Custodian
+Information Systems Security Officer, COMSEC Custodian, ManTech and Parsons
+
 March 2021 – March 2022
 
 In the IA role as an ISSO I provide comprehensive information system security support to
@@ -114,6 +117,7 @@ classification guides, DD 254, contract data classification, focusing on safety 
 of assets, resources and mission.
 
 Information Systems Security Engineer, ManTech and Innove
+
 April 2015 – February 2021
 
 Information Assurance Systems Architecture Engineers (IASAE) implement and conduct
@@ -174,6 +178,7 @@ software/hardware enhancements, application deployments, and infrastructure upgr
 in a dynamic information system hosting environment.
 
 Security Engineer self-employed, Insignis Solutions Llc
+
 October 2011 – March 2015
 
 Provide extraordinary service in the areas of computer and network security consulting.
@@ -184,8 +189,7 @@ include the following key elements;
 solutions;
 2) Good decisions require good data; and
 3) Effective operations require accurate and timely access to network security data
-4) 
-Research network security issues from legacy to today's more common computer and
+4) Research network security issues from legacy to today's more common computer and
 information security vulnerabilities. Study breaches that have included buffer overflow
 types, SQL injection, cross site scripting, abusing ESP, cookie manipulation, and abusing
 DNS for host identification, for example.
@@ -207,6 +211,7 @@ Provide flash capabilities for certain cell phone manufacturers’ phones per cu
 request.
 
 Technical Staff, Engineer, LANL
+
 April 2005 – September 2011
 
 Support of the Laboratory's mission in telecommunications, networking and
@@ -236,6 +241,7 @@ Provide security certification and accreditation plan approval process for opera
 security.
 
 Systems Engineer, Level 3 Communications
+
 August 1998 to September 1999
 
 Design of network capacity planning system, network element augmentation process.
