@@ -1,14 +1,14 @@
 # ME
 **EXPERIENCE DESCRIPTION**
-__
-Sr. Manager Cybersecurity Engineer, Odyssey Systems
 
-April 2024 - Present
+__Sr. Manager Cybersecurity Engineer, Odyssey Systems__
 
-Cybersecurity Subject Matter Expert, Odyssey Systems
+__April 2024 - Present__
 
-April 2022 – February 2024
-__
+__Cybersecurity Subject Matter Expert, Odyssey Systems__
+
+__April 2022 – February 2024__
+
 Interface with cyber authorities and assessment groups to support and manage
 Assessment and Authorization (A&A) approvals.
 
@@ -27,9 +27,9 @@ and defend, analyze/investigate, respond, recover, and oversee/govern networks a
 systems. Provide policy writing and editing functions as defined by the supporting
 Program Office and groups involved in design and management of the systems.
 
-Information Systems Security Officer, COMSEC Custodian, ManTech and Parsons
+__Information Systems Security Officer, COMSEC Custodian, ManTech and Parsons__
 
-March 2021 – March 2022
+__March 2021 – March 2022__
 
 In the IA role as an ISSO I provide comprehensive information system security support to
 federal organization directorates and offices, including guidance to personnel on all IS
@@ -116,9 +116,9 @@ Write, review, and assess security documentation and plans, including OPSEC, PPP
 classification guides, DD 254, contract data classification, focusing on safety and security
 of assets, resources and mission.
 
-Information Systems Security Engineer, ManTech and Innove
+__Information Systems Security Engineer, ManTech and Innove__
 
-April 2015 – February 2021
+__April 2015 – February 2021__
 
 Information Assurance Systems Architecture Engineers (IASAE) implement and conduct
 cybersecurity engineering activities in accordance with the organization's relevant
@@ -177,9 +177,9 @@ Demonstrate experience in analysis simulation environment, configuring/troublesh
 software/hardware enhancements, application deployments, and infrastructure upgrades
 in a dynamic information system hosting environment.
 
-Security Engineer self-employed, Insignis Solutions Llc
+__Security Engineer self-employed, Insignis Solutions Llc__
 
-October 2011 – March 2015
+__October 2011 – March 2015__
 
 Provide extraordinary service in the areas of computer and network security consulting.
 Services are constructed with each business and technology process consideration, and
@@ -210,9 +210,9 @@ H2O Wireless and Ultra Mobile.
 Provide flash capabilities for certain cell phone manufacturers’ phones per customer
 request.
 
-Technical Staff, Engineer, LANL
+__Technical Staff, Engineer, LANL__
 
-April 2005 – September 2011
+__April 2005 – September 2011__
 
 Support of the Laboratory's mission in telecommunications, networking and
 communications information security.
@@ -240,9 +240,9 @@ support of DOD and DOE directives.
 Provide security certification and accreditation plan approval process for operations
 security.
 
-Systems Engineer, Level 3 Communications
+__Systems Engineer, Level 3 Communications__
 
-August 1998 to September 1999
+__August 1998 to September 1999__
 
 Design of network capacity planning system, network element augmentation process.
 
@@ -267,8 +267,9 @@ proceedings in each represented State.
 Business continuity and disaster recovery planning of network infrastructure, including
 business process design.
 
-Systems Engineer, Columbia Lighting, Inc.
-August 1991 to December 1993
+__Systems Engineer, Columbia Lighting, Inc.__
+
+__August 1991 to December 1993__
 
 Development, design and testing of luminaire specifications.
 Light modeling within AutoCAD and self-designed software for lighting design and
@@ -280,7 +281,7 @@ system designs for engineers and architects.
 Physical, environmental security systems design, and electrical power distribution system
 design.
 
-KNOWLEDGE, SKILLS, & ABILITIES
+__KNOWLEDGE, SKILLS, & ABILITIES__
 
 Technical Communications Network: Project planning for telecommunication and data
 network infrastructure; Network security and systems design; Network services
